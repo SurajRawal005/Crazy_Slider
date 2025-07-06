@@ -1,6 +1,6 @@
 # 🐉 Crazy Slider
 
-A stunning **CSS-only** 3D image carousel showcasing fantasy-themed dragons, built using pure HTML and CSS. No JavaScript needed!
+A stunning **CSS-only** 3D image carousel showcasing fantasy-themed dragons, built using pure HTML and CSS. 
 
 👉 **Live Demo**: [crazy-slider.vercel.app](https://crazy-slider-delta.vercel.app/)
 
@@ -41,9 +41,7 @@ Crazy_Slider/
 │ └── ...up to dragon_10.jpg
 ├── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
